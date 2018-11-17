@@ -8,4 +8,5 @@ Data retrieved from the National Health and Nutrition Survey (NHANES).
 
 How to use: 
 Download data stored in .RData file and code script. 
-Packages you'll need: ggplot2, tidyverse, and 
+Packages you'll need: ggplot2, tidyverse, and GridExtra 
+Run code and you've got yourself 15 years of hypohydration 
